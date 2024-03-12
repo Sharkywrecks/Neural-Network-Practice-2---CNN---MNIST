@@ -1,1 +1,1 @@
-Java implementation of CNN
+Java implementation of CNN.
